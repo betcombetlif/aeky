@@ -8,4 +8,4 @@
     - 2020-12-07 Solved
 3. [프로그래머스] [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
     - 해시
-    - 2020-12-08 Solved
+    - 2020-12-08 Unsolved
