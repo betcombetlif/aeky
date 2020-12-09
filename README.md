@@ -9,4 +9,4 @@
 4. [프로그래머스] [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
     - 2020-12-08 Python // Unsolved 🤯
 5. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java)
-    - 2020-12-09 Python // Solved 😆
+    - 2020-12-09 Java // Solved 😆
