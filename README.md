@@ -10,3 +10,6 @@
     - 2020-12-08 Python // Unsolved 🤯
 5. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java)
     - 2020-12-09 Java // Solved 😆
+6. [프로그래머스] [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+    - 2020-12-10 Java // Unsolved 🤯
+    - 2020-12-11 Python // Solved 😆
