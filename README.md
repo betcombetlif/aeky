@@ -13,3 +13,5 @@
 6. [프로그래머스] [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
     - 2020-12-10 Java // Unsolved 🤯
     - 2020-12-11 Python // Solved 😆
+7. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+    - 2020-12-12 Python // Solved 😆

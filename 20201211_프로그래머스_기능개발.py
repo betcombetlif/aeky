@@ -25,7 +25,7 @@ def solution(progresses, speeds):
                     i = len(left)
                 break
 
-    return answerㄴ
+    return answer
 
     ### 2 - 참고 풀이
     # https://geonlee.tistory.com/122
