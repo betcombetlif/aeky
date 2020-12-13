@@ -1,7 +1,6 @@
 def solution(genres, plays):
     ### 1 - 혼자 풀이
-    # 정확성 테스트 3/15
-
+    # 정확성 테스트 15/15
     music = {}
     for g, (i, p) in zip(genres, enumerate(plays)):
         if g not in music:
@@ -14,7 +13,7 @@ def solution(genres, plays):
         m[1][1] = sorted(m[1][1], key=lambda x:x[1], reverse=True)
     
     answer = []
-    for i in range(2):
+    for i in range(len(music_sorted)):
         if len(music_sorted[i][1][1]) < 2:
             answer.append(music_sorted[i][1][1][0][0])
         else:

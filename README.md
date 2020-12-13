@@ -8,6 +8,7 @@
     - 2020-12-08 Python // Unsolved 🤯
 4. [프로그래머스] [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
     - 2020-12-08 Python // Unsolved 🤯
+    - 2020-12-13 Python // Solved 😆
 5. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java)
     - 2020-12-09 Java // Solved 😆
 6. [프로그래머스] [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
