@@ -15,3 +15,5 @@
     - 2020-12-11 Python // Solved 😆
 7. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
     - 2020-12-12 Python // Solved 😆
+8. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+    - 2020-12-13 Python // Unsolved 🤯
