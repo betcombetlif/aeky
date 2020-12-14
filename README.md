@@ -18,3 +18,5 @@
     - 2020-12-12 Python // Solved 😆
 8. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
     - 2020-12-13 Python // Unsolved 🤯
+9. [프로그래머스] [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+    - 2020-12-14 Python // Solved 😆
