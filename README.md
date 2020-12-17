@@ -1,26 +1,51 @@
 # Problem Solving  
 
 1. [프로그래머스] [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576?language=python3)
+    
     - 2020-12-07 Python // Solved 😆
+    
 2. [프로그래머스] [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+    
     - 2020-12-07 Python // Solved 😆
+    
 3. [프로그래머스] [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)
+    
     - 2020-12-08 Python // Unsolved 🤯
+    
 4. [프로그래머스] [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)
     - 2020-12-08 Python // Unsolved 🤯
     - 2020-12-13 Python // Solved 😆
+    
 5. [프로그래머스] [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584?language=java)
+    
     - 2020-12-09 Java // Solved 😆
+    
 6. [프로그래머스] [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
     - 2020-12-10 Java // Unsolved 🤯
     - 2020-12-11 Python // Solved 😆
+    
 7. [프로그래머스] [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)
+    
     - 2020-12-12 Python // Solved 😆
+    
 8. [프로그래머스] [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+    
     - 2020-12-13 Python // Unsolved 🤯
+    
 9. [프로그래머스] [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+    
     - 2020-12-14 Python // Solved 😆
+    
 10. [프로그래머스] [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)
+    
     - 2020-12-15 Python // Solved 😆
+    
 11. [프로그래머스] [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
-     - 2020-12-16 // Solved 😆
+    
+     - 2020-12-16 Python // Solved 😆
+    
+12. [프로그래머스] [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748?language=python3)
+
+     - 2020-12-17 Python // Solved 😆
+
+     
