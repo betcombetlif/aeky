@@ -39,3 +39,5 @@
 
 13. [프로그래머스] [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
      - 2020-12-17 Python // Unsolved 🤯
+14. [프로그래머스] [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+     - 2020-12-18 Python // Solved 😆
