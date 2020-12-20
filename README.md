@@ -42,4 +42,5 @@
      - 2020-12-18 Python // Solved 😆
 15. [프로그래머스] [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
      - 2020-12-19 Python // Solved 😆
-
+16. [프로그래머스] [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+     - 2020-12-20 Python // Solved 😆
