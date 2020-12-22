@@ -44,3 +44,7 @@
      - 2020-12-19 Python // Solved 😆
 16. [프로그래머스] [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
      - 2020-12-20 Python // Solved 😆
+17. [프로그래머스] [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+     - 2020-12-21 Python // Solved 😆
+18. [프로그래머스] [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+     - 2020-12-22 Python // Solved 😆
