@@ -48,3 +48,5 @@
      - 2020-12-21 Python // Solved 😆
 18. [프로그래머스] [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
      - 2020-12-22 Python // Solved 😆
+19. [프로그래머스] [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+     - 2020-12-23 Python // Solved 😆
