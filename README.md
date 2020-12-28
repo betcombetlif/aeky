@@ -50,3 +50,7 @@
      - 2020-12-22 Python // Solved 😆
 19. [프로그래머스] [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
      - 2020-12-23 Python // Solved 😆
+20. [프로그래머스] [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)
+     - 2020-12-24 Python // Unsolved 🤯
+21. [프로그래머스] [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+     - 2020-12-28 Python // Unsolved 🤯
