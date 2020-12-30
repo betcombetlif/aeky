@@ -54,3 +54,5 @@
      - 2020-12-24 Python // Unsolved 🤯
 21. [프로그래머스] [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
      - 2020-12-28 Python // Unsolved 🤯
+22. [프로그래머스] [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
+     - 2020-12-30 Python // Solved 😆
