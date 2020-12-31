@@ -56,3 +56,7 @@
      - 2020-12-28 Python // Unsolved 🤯
 22. [프로그래머스] [섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)
      - 2020-12-30 Python // Solved 😆
+23. [프로그래머스] [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)
+    - 2020-12-31 Python // Unsolved 🤯
+24. [프로그래머스] [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+     - 2020-12-31 Python // Unsolved 🤯
