@@ -60,3 +60,5 @@
     - 2020-12-31 Python // Unsolved 🤯
 24. [프로그래머스] [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
      - 2020-12-31 Python // Unsolved 🤯
+25. [프로그래머스] [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+     - 2021-01-01 Python // Unsolved 🤯
