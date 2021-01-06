@@ -66,3 +66,5 @@
      - 2021-01-02 Python // Solved 😆
 27. [프로그래머스] [여행 경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
      - 2021-01-05 Python // Unsolved 🤯
+28. [백준] [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+     - 2021-01-06 Python // Unsolved 🤯
