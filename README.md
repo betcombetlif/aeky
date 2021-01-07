@@ -68,3 +68,5 @@
      - 2021-01-05 Python // Unsolved 🤯
 28. [백준] [DFS와 BFS](https://www.acmicpc.net/problem/1260)
      - 2021-01-06 Python // Unsolved 🤯
+29. [백준] [미로 탐색](https://www.acmicpc.net/problem/2178)
+     - 2021-01-07 Python // Unsolved 🤯
