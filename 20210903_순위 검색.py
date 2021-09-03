@@ -12,8 +12,6 @@ def solution(info, query):
         condition = temp[:-1]
         print(i+1, ">>> 조건: ", score, condition)
 
-        answer[i] = 0
-
         for app in applicants:
             print("> 지원자: ", app)
             flag = False
