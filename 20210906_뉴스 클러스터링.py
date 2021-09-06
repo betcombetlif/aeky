@@ -1,10 +1,8 @@
 # https://programmers.co.kr/learn/courses/30/lessons/17677
 
 def solution(str1, str2):
-    import re
-    str1 = ''.join(re.findall('[\w\s]\D+', str1)).upper()
-    str2 = ''.join(re.findall('[\w\s]\D+', str2)).upper()
-    # print(str1, str2)
+    str1 = str1.upper()
+    str2 = str2.upper()
 
     # 다중집합의 원소 만들기
     str1_elem = []
